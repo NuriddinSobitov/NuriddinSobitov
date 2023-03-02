@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Nuriddin</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuriddinsobitov" alt="nuriddinsobitov" /></a> </p>
+
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuriddinsobitov&label=Profile%20views&color=0e75b6&style=flat" alt="nuriddinsobitov" /> </p>
 
@@ -15,7 +19,6 @@
 - 📫 How to reach me **sobitovnuriddin7655@gmial.com**
 
 - ⚡ Fun fact **I am very sociable,kind and also active person**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuriddinsobitov" alt="nuriddinsobitov" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
