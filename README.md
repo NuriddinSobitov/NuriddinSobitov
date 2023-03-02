@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuriddinsobitov&label=Profile%20views&color=0e75b6&style=flat" alt="nuriddinsobitov" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuriddinsobitov)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **on Django(DRF)**
 
 - 🌱 I’m currently learning **Python, Django, Postgres, MySql, Sqlite3**
@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I am very sociable,kind and also active person**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nuriddinsobitov)](https://github.com/nuriddinsobitov/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
