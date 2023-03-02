@@ -15,11 +15,6 @@
 - 📫 How to reach me **sobitovnuriddin7655@gmial.com**
 
 - ⚡ Fun fact **I am very sociable,kind and also active person**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuriddinsobitov)](https://github.com/nuriddinsobitov/github-profile-trophy)
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuriddinsobitov" alt="nuriddinsobitov" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
