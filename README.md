@@ -3,16 +3,15 @@
 <h1 align="center">Hi 👋, I'm Nuriddin</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuriddinsobitov&label=Profile%20views&color=0e75b6&style=flat" alt="nuriddinsobitov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuriddinsobitov" alt="nuriddinsobitov" /></a> </p>
 
 - 🔭 I’m currently working on **on Django(DRF)**
 
-- 🌱 I’m currently learning   **Python, Django, Postgres, MySql**
+- 🌱 I’m currently learning **Python, Django, Postgres, MySql, Sqlite3**
 
-- 💬 Ask me about    **Python, Django, PostgreSQL, TelegramBot**
+- 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
 
 - 📫 How to reach me **sobitovnuriddin7655@gmial.com**
 
